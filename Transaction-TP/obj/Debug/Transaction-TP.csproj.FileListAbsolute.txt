@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\bin\Debug\Transaction-TP.exe
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\bin\Debug\Transaction-TP.pdb
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction-TP.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction_TP.Form1.resources
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction_TP.Properties.Resources.resources
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction-TP.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction-TP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction-TP.exe
+C:\Users\Dell\Desktop\C sharp\Transaction-TP\Transaction-TP\obj\Debug\Transaction-TP.pdb
